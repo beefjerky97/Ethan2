@@ -1,0 +1,7 @@
+name: Ethan
+main: me.Et.buk.Main
+version: 1
+description: Hey
+commands:
+ whoop:
+  description: None
